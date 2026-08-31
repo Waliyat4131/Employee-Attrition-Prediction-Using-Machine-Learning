@@ -1,0 +1,10 @@
+These are the required library for the project.
+
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+tensorflow
+scikeras
+jupyter
